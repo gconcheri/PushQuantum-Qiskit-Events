@@ -15,4 +15,7 @@ Module-3-Lecture made by Jessica Link
 
 Module-1-Circuits_Backend made by Giovanni Concheri, adapted from [Module-1-Lecture](https://github.com/gconcheri/PushQuantum-Qiskit-Events/blob/main/qiskit-bootcamp_2024/Module-1-Lecture.ipynb) and [Module-2-Lecture](https://github.com/gconcheri/PushQuantum-Qiskit-Events/blob/main/qiskit-bootcamp_2024/Module-2-Lecture.ipynb) from Qiskit BootCamp 2024 and from [WoQ-Hands-on](https://github.com/gconcheri/WoQ_Qiskit_Hackathon/blob/main/guidelines/WoQ-Hands-on.ipynb) 
 
-in the future: add to this module the generalized gates (qc.append()) and overall the last part of Module-2-Lecture
+Module-2-Transpilation made by Jannik Pflieger
+
+<!-- in the future: add to this module the generalized gates (qc.append()) and overall the last part of Module-2-Lecture 
+-->
